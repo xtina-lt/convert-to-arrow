@@ -95,7 +95,7 @@ copy
 ---
 ## Changing Background:
 
-![Untitled](./static/Untitled.png)
+![Untitled](./assets/Untitled.png)
 
 **Old**
 
@@ -116,7 +116,7 @@ document.getElementById("button").onclick = () => {
 ---
 ## Alert with Input
 
-![Untitled](./static/Untitled%201.png)
+![Untitled](./assets/Untitled%201.png)
 
 **Old**
 
@@ -142,9 +142,9 @@ const setBackgroundColorById = (id, color) => {
 ---
 ## Background Color Change on Hoover
 
-![Untitled](./static/Untitled%202.png)
+![Untitled](./assets/Untitled%202.png)
 
-![Untitled](./static/Untitled%203.png)
+![Untitled](./assets/Untitled%203.png)
 
 **Old**
 
@@ -171,9 +171,9 @@ document.getElementById("hover-this").onmouseover = () => {
 ---
 ## Background Color Change on Click with Input
 
-![Untitled](./static/Untitled%204.png)
+![Untitled](./assets/Untitled%204.png)
 
-![Untitled](./static/Untitled%205.png)
+![Untitled](./assets/Untitled%205.png)
 
 **Old**
 
@@ -198,9 +198,9 @@ const setBackgroundColorById = (id, color) => {
 ---
 ## Mouse Over Change Background
 
-![Untitled](./static/Untitled%206.png)
+![Untitled](./assets/Untitled%206.png)
 
-![Untitled](./static/Untitled%207.png)
+![Untitled](./assets/Untitled%207.png)
 
 **Old**
 
