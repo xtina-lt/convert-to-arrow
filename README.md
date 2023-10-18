@@ -6,7 +6,7 @@
 </aside>
 
 ### Links
- - [Notion Page Version](https://different-delivery-037.notion.site/Convert-To-Arrow-0d91444e0a3b4f149b929846571b449e?pvs=4)
+ - [Notion Page Version](https://different-delivery-037.notion.site/Convert-To-Arrow-2060dfcb0c0f498a8aa8af8f915cd2ce?pvs=4)
  - [Section Notes](https://different-delivery-037.notion.site/Modern-JavaScript-9302deb4f93d48699228e16d600e360f?pvs=4)
     
 
@@ -14,17 +14,10 @@
 - Demonstrate a comprehension of the similarities and differences between JavaScript functions written in different syntax.
 - Implement arrow functions to adhere to modern JavaScript standards and improve code readability.
 
----
 
-This practice assignment will reinforce important learning objectives from the previous lesson(s), and allow you to take on more challenging core assignments, preparing you for graduation.
-
-Practice and tinker with this assignment until you're comfortable performing each of the tasks. Then, be sure to submit your output as described in the steps below.
-
----
 
 # **Convert to Arrow:**
 
-You are at a company that does not have a great front end for its website, but they pride themselves on their JavaScript. Since they only care about adding random JavaScript functionality, they don't want you to change the CSS of this site. They have given you a task to update the Javascript in their site to ES6, so that every method being called uses arrow functions.
 
 Take the following HTML and update all functions to arrow functions.
 
@@ -84,8 +77,6 @@ function mouseOverFunction(el){
 copy
 ```
 
-- [x]  Update all functions to utilize arrow function syntax
-- [x]  Connect the EventListener `setBackgroundColorById` to the paragraph element with an id attribute of "set-color" in the HTML
 
 ## Changing Background:
 
